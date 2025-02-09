@@ -19,7 +19,7 @@ Live Demo: Upcoming!!!
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/labus-weg/tiktok-clone-project.git
+git clone https://github.com/labus-weg/popreel-tiktok-clone.git
 cd tiktok-clone
 ```
 
