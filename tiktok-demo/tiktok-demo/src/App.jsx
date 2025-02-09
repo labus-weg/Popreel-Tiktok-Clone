@@ -1,7 +1,8 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { Heart, MessageCircle, Share2, Music2, User, Home, Search, PlusCircle, MessageSquare } from 'lucide-react';
-import axios from 'axios';
+import axios from "axios";
+
 
 // VideoPlayer Component
 const VideoPlayer = ({ video, isVisible }) => {
