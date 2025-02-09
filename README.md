@@ -1,5 +1,5 @@
 # Popreel-Tiktok-Clone
-A Headstarter AI Challenge  [Yasin Ehsan]((https://www.linkedin.com/in/yasinehsan/)) & Faizan Ahmed [https://www.linkedin.com/in/faizancodes](url) brought to you by Hassan Syed [https://www.linkedin.com/in/hassan-syed-b166a9171](url)
+A Headstarter AI Challenge  [Yasin Ehsan](https://www.linkedin.com/in/yasinehsan/) &  [Faizan Ahmed](https://www.linkedin.com/in/faizancodes) brought to you by [Hassan Syed](https://www.linkedin.com/in/hassan-syed-b166a9171)
 A minimal TikTok clone built with Next.js, Firebase, and Tailwind CSS. This project demonstrates core social video sharing functionality including authentication, video uploads, and a responsive feed.
 
 ## 🎥 Demo & Features
